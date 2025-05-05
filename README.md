@@ -1,5 +1,5 @@
 # banistyle
-![Alt text](https://github.com/user-attachments/imges/banystyle1.png)
+![Alt text](https://github.com/Abilfazldalili/imges/banystyle1.png)
 
 
 ![Alt text](https://github.com/user-attachments/imges/banystyle2.png)
